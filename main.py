@@ -1,3 +1,5 @@
 from funcs import summ
+from funcs import subtraction
 
-print(summ(7, 6))
+summ(7, 6)
+subtraction(9, 3)
