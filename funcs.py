@@ -7,3 +7,12 @@ def summ(a, b):
     """
     return a + b
 
+
+def subtraction(a, b):
+    """
+    Возвращиает разницу двх чисел
+    :param a:
+    :param b:
+    :return:
+    """
+    return a - b
